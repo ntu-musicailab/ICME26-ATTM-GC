@@ -102,7 +102,7 @@ The following teams kindly agreed to share their resources with the community. T
     ```bibtex
   @inproceedings{kim2026improving,
     title     = {Improving Text-to-Music Generation with Human Preference Rewards},
-    author    = {Yonghyun Kim, Junwon Lee, Haiwen Xia, Yinghao Ma and Chris Donahue},
+    author    = {Yonghyun Kim and Junwon Lee and Haiwen Xia and Yinghao Ma and Chris Donahue},
     booktitle = {IEEE International Conference on Multimedia and Expo (ICME), Grand Challenge},
     year      = {2026}
   }
@@ -118,7 +118,7 @@ The following teams kindly agreed to share their resources with the community. T
   ```bibtex
   @inproceedings{cheng2026making,
     title     = {Making the Most of Limited Data: Score-Aware Training for Text-to-Music Generation},
-    author    = {Yun-Chen Cheng, Tzu-Hung Huang and Chih-Pin Tan},
+    author    = {Yun-Chen Cheng and Tzu-Hung Huang and Chih-Pin Tan},
     booktitle = {IEEE International Conference on Multimedia and Expo (ICME), Grand Challenge},
     year      = {2026}
   }
@@ -133,7 +133,7 @@ The following teams kindly agreed to share their resources with the community. T
     ```bibtex
   @inproceedings{yoshida2026ut,
     title     = {UT-AISTimprt submission for ICME 2026 Grand Challenge on Academic Text-to-Music Generation},
-    author    = {Shunsuke Yoshida, Yu-Hua Chen and Satoru Fukayama},
+    author    = {Shunsuke Yoshida and Yu-Hua Chen and Satoru Fukayama},
     booktitle = {IEEE International Conference on Multimedia and Expo (ICME), Grand Challenge},
     year      = {2026}
   }
